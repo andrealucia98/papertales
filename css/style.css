@@ -1,0 +1,699 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,700,900');
+
+body{
+	font-family: Segoe UI;
+	 color:#161616;
+}
+
+.logo{
+position: relative;
+right:20px;
+bottom:25px;
+}
+
+
+.menu{
+padding-top: 10px;
+padding-right: 10px;
+
+}
+
+.menu li{
+	display: inline-block;
+	margin-right: 30px;}
+
+.menu li a{
+	text-decoration: none;
+	color:#0F0F0F;
+	text-align: center;
+}
+
+.menu img{
+	padding-left: 10px;
+}
+
+
+.menu h2{
+font-size: 20px;
+}
+
+header img{
+margin-right: 20px;
+}
+
+#established-about p{
+	text-align: justify
+}
+
+#mision-vision p{
+	text-align: justify;
+}
+.about{
+	background-color: #fff;
+	padding: 50px;
+	text-align: center;
+	color:#000000;
+	
+}
+
+
+.about h1{
+	font-weight:lighter;
+	
+}
+
+.S3{
+	padding:40px;
+	color:#000;
+	font-weight:lighter;
+	background-color: #F8F8F4;
+	
+}
+
+.S3 h3{
+	font-weight:lighter;
+	padding-left: 100px;
+	
+	
+}
+
+.S4{
+	background-color:#F8F8F4;
+	color:#000;
+	padding-top: 50px;
+	padding-right: 20px;
+	padding-left: 70px;
+	padding-bottom: 50px;
+}
+
+.S4 h4, p{
+	font-weight:lighter;
+}
+
+.services{
+	background-color: #fff;
+	padding: 50px;
+	text-align: center;
+	color:#000000;
+	font-weight: lighter;
+}
+
+.services h1{
+	font-weight:lighter
+}
+
+.S5{
+	background-color: #F8F8F4;
+	color: #000;
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+
+.S5 h3, h5{
+	font-weight:lighter;
+}
+
+.S5 h5{
+text-align: center;
+
+}
+
+.S5 h3{
+text-align: left;
+position: relative;
+left: 30px;
+}
+
+
+.S3 h3{
+	font-weight:lighter;
+	padding-left: 100px;
+}
+	
+.S6{
+	color:#000;
+	background-color: #fff;
+	padding:60px;
+	
+}
+.S6 p,h3 {
+	font-weight:lighter;	
+}
+
+.S6 img{
+	position:relative;
+	left: 100px;
+}
+
+
+.S6 p, h3{
+	position: relative;
+	right: 100px;
+}
+
+footer{
+	text-align: center;
+	background-color: #BFBFBF;
+	margin: 0px;
+	color:#000000;
+	padding: 10px;
+}
+
+
+
+.books{
+	background-color: #fff;
+	padding: 50px;
+	text-align: center;
+	color:#000000;
+}
+
+
+.books h1{
+	font-weight:lighter;	
+}
+
+.S4-Books{
+	background-color:#FFFFFF;
+	color:#000;
+	padding-top: 50px;
+	padding-right: 20px;
+	padding-left: 90px;
+	padding-bottom: 50px;
+}
+
+.S4-Books h3{
+	font-weight:lighter;
+	text-align: right;
+	padding-left: 25px;
+	font-size: 25px;
+	padding-top: 110px;
+}
+
+.S4-Books h4{
+	font-weight:lighter;
+	font-size: 20px;
+	text-decoration: none;
+	padding-left: 15px;
+}
+
+.S4-Books ul{
+	font-weight: bold;
+	font-size: 12px;
+    list-style-type: none;
+	text-align: left;
+
+}
+
+.genres{
+	padding-top: 8px;
+}
+
+.S5-Products{
+	background-color: #fff;
+	text-align: center;
+	color:#000000;
+	align-content: center;
+	font-weight:lighter;
+	
+}
+
+
+.S5-Products h3{
+	font-weight:lighter;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 50px;
+	padding-left: 200px;
+	color:#000000
+}
+
+.S5-Products h4{
+	padding: 10px 0 50px;
+	font-size: 12px;
+	font-family: Lato;
+	text-align: center;
+}
+
+.Classification{
+	background-color: #F8F8F4;
+	text-align: center;
+	padding-top: 40px;
+	margin-bottom: 55px;
+}
+
+.book1{
+	margin-top: 25px;
+}
+
+.book3{
+	margin-top: 25px;
+}
+
+.stat1{
+	margin-top: 20px;
+}
+
+.stat3{
+	margin-top: 20px;
+}
+
+.items1{
+	margin-top: 20px;
+}
+
+.items3{
+	margin-top: 20px;
+}
+
+.poster1{
+	margin-top: 20px;
+}
+
+.poster3{
+	margin-top: 20px;
+}
+
+.S5-Products img{
+  border-radius: 5%;
+}
+
+footer{
+	background-color:#D0D0D0;
+	color:#000;
+	padding-top: 50px;
+	padding-right: 20px;
+	padding-bottom: 50px;
+}
+
+footer h4{
+	font-weight:lighter;
+	font-size: 20px;
+	text-decoration: none;
+	padding-left: 15px;
+}
+
+footer ul{
+	font-weight: bold;
+	font-size: 12px;
+    list-style-type: none;
+	text-align: left;
+
+}
+
+footer h3{
+	font-size: 12px;
+	text-align: center;
+}
+
+.featured{
+	padding: 40px;
+}
+
+.featured h1{
+	margin-bottom: 30px;
+	font-weight: 100; 
+}
+
+.btn-rectangulo{
+	background-color: transparent;
+	border:1px solid #000000;
+	color:black;
+	border-radius: 0;
+	padding: 4px 50px;
+
+}
+
+.btn-rectangulo:hover{
+	background-color: #fff;
+	color: #000;
+	}
+
+.Index-Books{
+	background-color: #E8E7E7;
+	text-align: center;
+	padding-top: 40px;
+	padding-bottom: 55px;
+}
+
+.Index-Books img{
+  border-radius: 5%;
+}
+
+.Index-Books img{
+  border-radius: 5%;
+}
+
+.Index-Books h4{
+	padding: 10px 0 50px;
+	font-size: 12px;
+	font-family: Lato;
+	text-align: center;
+}
+
+#explore-papertales{
+	text-align: center;
+	background-size:cover;
+	background-color: #fff;
+	color: black; 
+}
+
+#explore-papertales li{
+	text-align: left;
+	list-style: none; 
+	padding-left: 90px; 
+	color: black;
+}
+
+#explore-papertales li a{
+	text-decoration: none;
+	font-size: 27px; 
+	font-weight: 100; 
+	color: black;
+}
+
+#explore-papertales h4{
+	padding-left: 100px;
+	padding-top: 100px;
+	text-align: left;
+	font-weight: 100px;
+	font-size: 15px; 
+}
+
+
+#explore-papertales a:hover{
+	color:black; 	
+}
+
+#explore-2 h4{
+	text-align: center; 
+	padding-top: 50px; 
+	color: white; 
+	
+}
+
+#explore-2 p{
+	text-align: center; 
+	color: white;
+	
+}
+
+#explore-2{ 
+	text-align: center; 
+	background-color: #404C66
+}
+
+#explore-2 a{ 
+	color: white; 
+}
+
+#explore-2 a:hover{ 
+	color: black; 
+}
+
+
+#stay-social h1{
+	padding-top: 30px;
+	text-align: center; 
+	font-size: 40px;
+	font-weight:100; 
+	padding-right: 180px;
+}
+
+#stay-social p{
+	text-align: center;
+	padding-right: 180px;	  
+}
+
+#stay-social{
+	padding-bottom: 40px;
+}
+
+#establecido{
+	padding: 80px;
+	background-color: #E4E4E4
+}
+
+.bottom-centered {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+#slides h1{
+	color:#000;
+	font-weight: 300;
+}
+#about{
+	background-color: #fff;
+	padding: 50px;
+	text-align: center;
+	color:#000000;
+	
+}
+
+
+#about h1{
+	font-weight:lighter;
+	
+}
+
+#established-about{
+	padding:40px;
+	color:#000;
+	font-weight:lighter;
+	background-color: #F8F8F4;
+	
+}
+
+#established-about h3{
+	font-weight:lighter;
+	padding-left: 100px;
+	
+	
+}
+
+#mision-vision{
+	background-color:#F8F8F4;
+	color:#000;
+	padding-top: 50px;
+	padding-right: 20px;
+	padding-left: 70px;
+	padding-bottom: 50px;
+}
+
+#mision-vision h4, p{
+	font-weight:lighter;
+}
+
+#services{
+	background-color: #fff;
+	padding: 50px;
+	text-align: center;
+	color:#000000;
+	font-weight: lighter;
+}
+
+#services h1{
+	font-weight:lighter
+}
+
+#icons-services{
+	background-color: #F8F8F4;
+	color: #000;
+	padding-top: 60px;
+	padding-bottom: 60px;
+	
+}
+
+
+#icons-services p {
+	text-align: center;
+	text-decoration: none;
+	
+}
+
+#icons-services h3, h5{
+	font-weight:lighter;
+}
+
+#icons-services h5{
+text-align: center;
+
+}
+
+#icons-services h3{
+text-align: left;
+position: relative;
+left: 30px;
+}
+
+
+
+	
+#mapa-about{
+	color:#000;
+	background-color: #fff;
+	padding:60px;
+	
+}
+#mapa-about p,h3 {
+	font-weight:lighter;	
+}
+
+#mapa-about img{
+	position:relative;
+	left: 100px;
+}
+
+
+#mapa-about p, h3{
+	position: relative;
+	right: 100px;
+}
+
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+	padding-bottom: 10px;
+}
+
+i{
+	color: #000;
+	font-size: 20px;
+	padding: 0 5px;
+	padding-top: 15px;
+}
+
+
+.btn-black{
+	font-size: 10px;
+	text-align: center;
+}
+
+
+.btn-black:hover{
+	background-color: FFFF;
+	border-color: #000;
+}
+
+
+.btn-light:hover{
+	background-color: FFFF;
+	border-color: #000;
+}
+
+/*Tablet*/
+@media (min-width:480px) and (max-width: 1024px){
+	
+	#mapa-about img{
+		position: relative;
+		left: 0.1px;
+		margin-bottom: 20px;}
+	
+	#mapa-about h3{
+		position: relative;
+		right: 10px;
+	}
+	
+	#mapa-about p{
+		position: relative;
+		right: 10px;
+		font-size: 14px;
+		text-align: justify;
+	}
+	
+}
+
+
+
+/*Celular*/
+@media (max-width:480px){
+	
+	.carousel-item h1{
+	font-size: 14px;
+		margin-top: 40px;}
+
+	
+	
+	
+	#explore-2 h4{
+		font-size: 16px;
+		margin-top: 0.5px;
+	}
+		
+	#explore p{
+		font-size: 12px;
+	}
+	
+	#explore-2 .btn-light{
+		margin-bottom: 20px;
+	}
+	
+	.btn-light{
+		font-size: 10px;
+	
+	}
+
+#establecido p{
+	font-size: 12px;}
+	
+	
+	#established-about p{
+		font-size: 12px;
+		
+	}
+	
+	#established-about h3{
+		font-size: 20px;
+		margin-top: 10px;
+	}
+	
+	#mapa-about{
+		text-align: center;
+	}
+#mapa-about p{
+		text-align: justify;
+		position: relative;
+		right: 0.5px;
+	}
+	
+	
+	#mapa-about h3{
+		position: relative;
+		right: 0.5px;
+	margin-bottom: 2px;
+	}
+	
+	#mapa-about img{
+		position: relative;
+		left: 0.5px;
+		margin-bottom: 20px;
+		
+	}
+	
+	#mision-vision p{
+		font-size: 14px;
+}
+	
+	#mision-vision h4{
+		font-size: 18px;
+	}
+	
+	footer h3{
+		text-align: center;
+		position: relative;
+		right: 0.5px;
+	}
+	
+	.btn-black{
+		position: relative;
+		left: 50px;
+		
+	}
+	
+}
+	
